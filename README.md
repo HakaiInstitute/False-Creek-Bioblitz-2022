@@ -31,7 +31,7 @@ The following data files are included in this repository:
 3. file_name.txt - Abundance data from visual survey of organisms collected in sediment samples during the eDNA survey
 4. file_name.txt - A species list of all organisms that were visually observed during the False Creek Bioblitz
 
-All raw Illumina sequence data have been deposited in NCBI (BioProject ID: PRJNA1049344). Link: http://www.ncbi.nlm.nih.gov/bioproject/1049344
+All raw Illumina sequence data have been deposited in NCBI (BioProject ID: PRJNA1049344): http://www.ncbi.nlm.nih.gov/bioproject/1049344
 
 See the 'data dictionary' file for a complete description of data variables, units
 and descriptions.
