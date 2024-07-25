@@ -28,8 +28,7 @@ The following data files are included in this repository:
 
 1. file_name.txt - Metadata for all seawater samples collected during the eDNA survey
 2. file_name.txt - Oceanography data collected during the eDNA survey
-3. file_name.txt - Abundance data from visual survey of organisms collected in sediment samples during the eDNA survey
-4. file_name.txt - A species list of all organisms that were visually observed during the False Creek Bioblitz
+3. file_name.txt - A species list of all organisms that were visually observed during the False Creek Bioblitz
 
 All raw Illumina sequence data have been deposited in NCBI (BioProject ID: PRJNA1049344): http://www.ncbi.nlm.nih.gov/bioproject/1049344
 
