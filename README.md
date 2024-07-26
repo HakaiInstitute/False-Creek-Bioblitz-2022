@@ -6,8 +6,7 @@
 
 # HakaiInstitute/False-Creek-Bioblitz-2022
 
-Summary here
-
+Public data from the False Creek Bioblitz (2022)
 ```
 repository reference citation
 ```
