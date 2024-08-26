@@ -19,7 +19,9 @@ False Creek is an urban inlet that runs through the city of Vancouver British Co
 
 1. A scientific publication is currently being prepared based on results from the eDNA survey.
 
-2. A technical report is currently being prepared based on the visual observation and occurence data. 
+2. A technical report is currently being prepared based on the visual observation and occurence data.
+
+Both of these reports will be added to this repository upon completion.
 
 ## Resources
 
