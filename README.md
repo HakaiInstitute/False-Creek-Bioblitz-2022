@@ -31,6 +31,8 @@ The following data files are included in this repository:
 
 All raw Illumina sequence data have been deposited in NCBI (BioProject ID: PRJNA1049344): http://www.ncbi.nlm.nih.gov/bioproject/1049344
 
+Visual observations from this Bioblitz can be viewed on iNaturalist: https://inaturalist.ca/projects/false-creek-bioblitz-2022
+
 See the 'data dictionary' file for a complete description of data variables, units
 and descriptions.
 
