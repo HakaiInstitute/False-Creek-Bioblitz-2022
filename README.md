@@ -35,6 +35,8 @@ All raw Illumina sequence data have been deposited in NCBI (BioProject ID: PRJNA
 
 Visual observations from this Bioblitz can be viewed on iNaturalist: https://inaturalist.ca/projects/false-creek-bioblitz-2022
 
+A subset of specimens were used for DNA Barcoding, the genetic data are available in the Barcode of Life Data System: dx.doi.org/10.5883/DS-FCBB
+
 See the 'data dictionary' file for a complete description of data variables, units
 and descriptions.
 
